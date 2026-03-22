@@ -2,8 +2,8 @@
 
 ## **Objective**
 
+The **Security Alert Escalation Agent** automatically places phone calls whenever an alert of any severity (low, medium, high, or critical) is generated within the environment. It notifies the on-call responder about the threat, the affected client, and the type of event that occurred.  The technologies used include **Trend Vision One Webhook**, **n8n**, **JavaScript**, and the **Twilio API**.
 
-The **Security Alert Escalation Agent** automatically places phone calls whenever an alert of **any severity** (low, medium, high, or critical) is generated within the environment. It **notifies** the **on-call** responder about the threat, the affected client, and the type of event that occurred.  The technologies used include **Trend Vision One Webhook**, **n8n**, **JavaScript**, and the **Twilio API**
 ---
 
 ## **Skills Learned**
